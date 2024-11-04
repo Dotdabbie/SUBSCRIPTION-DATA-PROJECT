@@ -165,15 +165,15 @@ FROM [dbo].[subc_data pro]
    -Premium
 
    -Standard
-6. most popular subscriptiontype based on customer count in descending order;
+5. most popular subscriptiontype based on customer count in descending order;
 
     -basic
 
    -premium
 
    -standard
-8. 15,175 customers ended thier subscription before 6 months
-9. The total number of customer per region in descending order;
+6. 15,175 customers ended thier subscription before 6 months
+7. The total number of customer per region in descending order;
    - East
    - south
    - north
