@@ -22,6 +22,15 @@ This project analyzes subscription data to uncover customer behavior and key tre
 **Power BI Dashboard:** The final deliverable was an interactive Power BI dashboard, designed to visualize customer segments, trends in subscription cancellations, and subscription duration. Key performance indicators (KPI cards) highlighted essential metrics like total active and canceled subscriptions, top regions for cancellations, and revenue by subscription type. Interactive slicers enabled dynamic filtering by region, subscription type, and status, adding flexibility for stakeholder-driven analysis.
 
 
+[IMG_20241104_225129_634](https://github.com/user-attachments/assets/fea25909-9484-4efe-882f-b590ee4d55e1)
+
+
+[IMG_20241104_225136_075](https://github.com/user-attachments/assets/dbfa6019-0d1b-4562-b401-4fdf90963eff)
+
+
+[IMG_20241104_224938_333](https://github.com/user-attachments/assets/007bafad-6e3d-4c81-9135-b7ca9c2f8795)
+
+
 ### Data Source
 The primary dataset used for this analysis is the "LITA Capstone Dataset_XLSX". it contained informations as:
 1. CustomerID
