@@ -23,16 +23,20 @@ This project analyzes subscription data to uncover customer behavior and key tre
 
 
 
-![IMG_20241104_225129_634](https://github.com/user-attachments/assets/b308f508-9a42-4e42-a0d3-bdd23711b116)
 
 
-[IMG_20241104_225136_075](https://github.com/user-attachments/assets/dbfa6019-0d1b-4562-b401-4fdf90963eff)
+![IMG_20241104_225136_075](https://github.com/user-attachments/assets/aab542fe-6c9b-46a4-8466-07d8509f97a3)
 
 
-[IMG_20241104_224938_333](https://github.com/user-attachments/assets/007bafad-6e3d-4c81-9135-b7ca9c2f8795)
+
+![IMG_20241104_225021_654](https://github.com/user-attachments/assets/0ea00c1d-6188-49f2-b229-0f2916f25e3d)
 
 
-The primary dataset used for this analysis is the "LITA Capstone Dataset_XLSX". it contained informations as:
+
+### DATA SOURCE
+
+The primary dataset used for this analysis is the "LITA Capstone Dataset_XLSX". it contained informations a
+s:
 1. CustomerID
 2. Customer Name
 3. Region
