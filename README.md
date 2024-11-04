@@ -1,5 +1,15 @@
 # Customer Subscription and Trends Data Analysis
 
+##Table of contents
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Analysis Tools](#analysis-tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 
 ### Project Overview
@@ -44,7 +54,7 @@ I loaded the data into SQL Server to gain further insights. SQL queries were cra
 The final deliverable was an interactive Power BI dashboard, designed to visualize customer segments, trends in subscription cancellations, and subscription duration. Key performance indicators (KPI cards) highlighted essential metrics like total active and canceled subscriptions, top regions for cancellations, and revenue by subscription type. Interactive slicers enabled dynamic filtering by region, subscription type, and subscription status(active/renewals or cancelled), adding flexibility for stakeholder-driven analysis.
 
 
-### Data Cleaning/Preparation process
+### Data Cleaning
 This was done through the following:
 - Data loading
 - Data inspecction
@@ -170,7 +180,19 @@ FROM [dbo].[subc_data pro]
    - west
 
 ### Recommendations
+1. Targeted Retention Strategies for High-Cancellation Regions
+The East, South, and North regions have the highest cancellation rates. Focus on understanding the specific challenges or dissatisfaction in these regions through customer feedback surveys and targeted engagement. Consider region-specific offers, personalized communication, or loyalty programs to improve customer retention.Enhance Subscription Offerings
 
+2. Since the Basic subscription is the most popular and highest revenue generator, there might be an opportunity to enhance its value. Introduce add-ons or upsell features to encourage upgrades to Premium or Standard subscriptions. Also, analyze why the Standard subscription is less favored and re-evaluate its pricing or feature set.Improve Subscription Duration Beyond 12 Months
+
+3. Currently, no customers have a subscription duration beyond 12 months. To increase long-term commitment, consider offering incentives like discounts, exclusive content, or bonus features for customers who commit to longer-term subscriptions (e.g., 18 or 24 months).Address Early Cancellations
+
+4. With 15,175 customers ending their subscription within six months, it is critical to address early churn. Implement an onboarding process that highlights the value of the subscription, personalized customer support, and early check-ins to resolve issues promptly. Offering satisfaction guarantees or flexible subscription options could also reduce early cancellations.Regional Growth Opportunities
+
+5. The East and South regions have the highest customer counts but also the highest cancellations. Focus on retention strategies while exploring growth opportunities in the West, which has the lowest customer base. Tailored marketing campaigns and region-specific promotions could help boost customer acquisition in underrepresented areas.
+
+### Limitations
+I had to remove duplicates from each column and row as that would affect the accuracy of my analysis result.
 
 
 
