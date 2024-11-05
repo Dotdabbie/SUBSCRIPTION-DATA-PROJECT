@@ -22,26 +22,9 @@ This project analyzes subscription data to uncover customer behavior and key tre
 **Power BI Dashboard:** The final deliverable was an interactive Power BI dashboard, designed to visualize customer segments, trends in subscription cancellations, and subscription duration. Key performance indicators (KPI cards) highlighted essential metrics like total active and canceled subscriptions, top regions for cancellations, and revenue by subscription type. Interactive slicers enabled dynamic filtering by region, subscription type, and status, adding flexibility for stakeholder-driven analysis.
 
 
+![IMG_20241104_225136_075](https://github.com/user-attachments/assets/e76db394-c8c7-43fd-881a-d482afebad03)
 
-
-![IMG_20241104_225136_075](https://github.com/user-attachments/assets/ac5a5fd2-1575-4686-aacc-94d521df1ec1)
-
-
-![image alt](https://github.com/Dotdabbie/SUBSCRIPTION-DATA-PROJECT/blob/166d41080afb75482a08fab5e9322d0d8ad86601/IMG_20241104_224938_333.jpg)
-
-
-
-
-
-![IMG_20241104_225021_654](https://github.com/user-attachments/assets/0ea00c1d-6188-49f2-b229-0f2916f25e3d)
-
-
-
-![IMG_20241104_225021_654](https://github.com/user-attachments/assets/0ea00c1d-6188-49f2-b229-0f2916f25e3d)
-
-
-
-
+![IMG_20241104_225021_654](https://github.com/user-attachments/assets/180a7e11-2962-49ce-a8df-579407468b89)
 
 ### DATA SOURCE
 
