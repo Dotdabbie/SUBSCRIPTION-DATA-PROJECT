@@ -24,6 +24,8 @@ This project analyzes subscription data to uncover customer behavior and key tre
 
 
 
+![IMG_20241104_225136_075](https://github.com/user-attachments/assets/ac5a5fd2-1575-4686-aacc-94d521df1ec1)
+
 
 ![image alt](https://github.com/Dotdabbie/SUBSCRIPTION-DATA-PROJECT/blob/166d41080afb75482a08fab5e9322d0d8ad86601/IMG_20241104_224938_333.jpg)
 
