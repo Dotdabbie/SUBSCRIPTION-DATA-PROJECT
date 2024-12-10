@@ -12,6 +12,7 @@
 - [Limitations](#limitations)
 
 
+
 ### Project Overview
 This project analyzes subscription data to uncover customer behavior and key trends in cancellations and renewals using Excel, SQL, and Power BI.
 
